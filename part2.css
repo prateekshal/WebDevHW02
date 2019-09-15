@@ -1,0 +1,43 @@
+/*
+Attribution: Few of the styles were picked up from W3Schools.
+Link: https://www.w3schools.com/css/css_table.asp
+*/
+
+table, th, td{
+    table-layout: auto;
+    width: 400px;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 2px;
+    background-color: black;
+}
+
+th, td{
+    padding: 10px;
+    text-align: center;
+    height: 60px;
+}
+
+button{
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: inline-block;
+    background-color: gainsboro;
+}
+
+.display{
+    margin: 2px;
+    padding: 8px;
+    border: 2px solid black;
+    width: 380px;
+    height: 60px;
+    background-color: aliceblue;
+    text-align: right;
+}
+
+p{
+    color: red;
+    font-size: small;
+    font-style: italic;
+}
