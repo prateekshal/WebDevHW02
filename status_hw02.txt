@@ -28,6 +28,7 @@ Please fill in answers to the questions below:
 
 9. Which parts of this assignment did you have trouble with, if any?
 :  I was not sure how extensively the calculator functionalities should be implemented.
+   Also, the += being in the same button caused some issues with the logic.
 
 
 And here's a list of tasks for grading comments. Just leave this here:
